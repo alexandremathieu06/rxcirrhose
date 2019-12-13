@@ -39,6 +39,8 @@
                 <li>Fabiano Pandozzi, candidat au Pharm.D (2018): Rédaction de fiches</li>
                 <li>Donna Renda, candidat au Pharm.D (2018): Rédaction de fiches</li>
                 <li>Alessio Valentini, candidat au Pharm.D (2018): Rédaction de fiches</li>
+                <li>Sandra Arencibia Cubas, candidat au Pharm.D (2020): Rédaction de fiches</li>
+                <li>Elizabeth Delisle, candidat au Pharm.D (2020): Rédaction de fiches</li>
             </ul>
         </div>
     </div>
